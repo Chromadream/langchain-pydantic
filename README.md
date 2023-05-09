@@ -1,12 +1,8 @@
-# RAILChain demo
+# Langchain-Pydantic
 
-[Langchain](https://python.langchain.com/en/latest/getting_started/getting_started.html) 💟 [Guardrails](https://shreyar.github.io/guardrails/getting_started/#objective).
+Wrapper to make pydantic models play more nicely with langchain.
 
-An attempt to make Guardrails play more nicely with Langchain.
-
-## Todo
-
-[] Actually utilize the validation.
+Still very toy-ish, probably will implement OutputParser pattern
 
 ## Installation
 
